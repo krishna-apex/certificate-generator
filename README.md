@@ -1,7 +1,7 @@
 Open Source Certificate Generator
 An easy-to-use, open-source certificate generator built with JavaScript, HTML, and CSS. Instantly create and customize professional certificates for events, workshops, and achievements!
 
-Project Link 🔗(https://krishna182005.github.io/re/genn/) 
+Project Link 🔗(https://krishna-apex.github.io/re/genn/) 
 
 🚀 Features
 Generate certificates dynamically with custom names and event details
@@ -16,7 +16,7 @@ Demo Screenshot <!-- Add a real screenshot if available -->
 Clone the repository:
 
 bash
-git clone https://github.com/krishna182005/re.git
+git clone https://github.com/krishna-apex/re.git
 cd re/genn
 Open index.html in your browser:
 
@@ -36,7 +36,7 @@ Share it on Twitter or LinkedIn
 Tell your friends and colleagues!
 Add a badge to your website or profile:
 Markdown
-[![Certificate Generator](https://img.shields.io/github/stars/krishna182005/re?style=social)](https://github.com/krishna182005/re)
+[![Certificate Generator](https://img.shields.io/github/stars/krishna-apex/re?style=social)](https://github.com/krishna-apex/re)
 📃 License
 This project is licensed under the MIT License.
 
@@ -67,7 +67,7 @@ Demo Screenshot <!-- Add a real screenshot if available -->
 Clone the repository:
 
 bash
-git clone https://github.com/krishna182005/re.git
+git clone https://github.com/krishna-apex/re.git
 cd re/genn
 Open index.html in your browser:
 
@@ -87,6 +87,6 @@ Share it on Twitter or LinkedIn
 Tell your friends and colleagues!
 Add a badge to your website or profile:
 Markdown
-[![Certificate Generator](https://img.shields.io/github/stars/krishna182005/re?style=social)](https://github.com/krishna182005/re)
+[![Certificate Generator](https://img.shields.io/github/stars/krishna-apex/re?style=social)](https://github.com/krishna-apex/re)
 📃 License
 This project is licensed under the MIT License.
